@@ -194,7 +194,7 @@ and manage.
 
 Repository Link:
 
-https://github.com/USERNAME/University_Course_Registration_System
+https://github.com/BaeThomas/University_Course_Registration_System
 
 ## Conclusion
 
